@@ -25,7 +25,7 @@ motivated individuals, riders and drivers can form their own networks to
 
 
 
-# Stride-Tokens
+# Rewards
 
 What if ride sharing was done via Smart Contracts?
 
